@@ -562,7 +562,7 @@ Git-bash'i kurduktan sonra terminaldeki komut satırı görüntüsü
 
 Bu kısmın nasıl görüneceğini ayarlayabiliyorsunuz. .bashrc dosyasını aratarak bulun. Bilgisayarımdaki konumu: C:\Program Files\Git\etc
 
-Sonrasında bu siteye girin: [http://bashrcgenerator.com](http://bashrcgenerator.com)Bu site üzerinde dilediğiniz şekilde ayar yapıp, verilen çıktıyı **.bashrc** dosyasına yapıştıracaksınız. Ben şöyle bir ayar yaptım. ![shell bashrcgenerator](/assets/img/posts/2018/07/bashrcgenerator.png)2 numaralı kısma, 1 numaralı kısımdan dilediğinizi sürükleyip bırakıyorsunuz. 2 numaralı kısımda ise bu sürüklediklerinizin üstüne çift tıklayarak renk ve kalınlık ayarı yapıyorsunuz. 3 numaralı kısımda komut satırının nasıl gözükeceği gösteriliyor. Son olarak istediğiniz komut görüntüsünü elde edince, 4 numaralı kısımdaki kodu kopyalayıp **.bashrc** dosyasının en altına yapıştırıyorsunuz. Kaydedip çıkıyorsunuz. Ben resimdeki gibi ayarladım ve terminalim aşağıdaki gibi oldu. ![shell bashrc ayarı sonrası](/assets/img/posts/2018/07/shell-bashrc.png)
+Sonrasında bu siteye girin: [https://bashrcgenerator.com](https://bashrcgenerator.com)Bu site üzerinde dilediğiniz şekilde ayar yapıp, verilen çıktıyı **.bashrc** dosyasına yapıştıracaksınız. Ben şöyle bir ayar yaptım. ![shell bashrcgenerator](/assets/img/posts/2018/07/bashrcgenerator.png)2 numaralı kısma, 1 numaralı kısımdan dilediğinizi sürükleyip bırakıyorsunuz. 2 numaralı kısımda ise bu sürüklediklerinizin üstüne çift tıklayarak renk ve kalınlık ayarı yapıyorsunuz. 3 numaralı kısımda komut satırının nasıl gözükeceği gösteriliyor. Son olarak istediğiniz komut görüntüsünü elde edince, 4 numaralı kısımdaki kodu kopyalayıp **.bashrc** dosyasının en altına yapıştırıyorsunuz. Kaydedip çıkıyorsunuz. Ben resimdeki gibi ayarladım ve terminalim aşağıdaki gibi oldu. ![shell bashrc ayarı sonrası](/assets/img/posts/2018/07/shell-bashrc.png)
 
 ## Kendi Komutlarınızı Oluşturun (alias)
 
@@ -596,7 +596,7 @@ Artık **sb** yazdığım zaman servera bağlanabilirim. **Not:** Komut satırı
 
 ## Daha Fazlası
 
-Shell hakkında daha detaylı bilgiler edinmek için bu kaynaklardan faydalanabilirsiniz: [The Bash Academy](http://www.bash.academy/)[Bash Beginners Guide](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/)[Bash Programming HOWTO](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)[Regexr — Learn Regular Expressions](http://regexr.com/)Ayrıca şu komutların ne işe yaradığını da araştırabilirsiniz: **man**, **sudo**, **chmod**, **ln**, **touch**, **diff**, **telnet**.
+Shell hakkında daha detaylı bilgiler edinmek için bu kaynaklardan faydalanabilirsiniz: [The Bash Academy](https://www.bash.academy/)[Bash Beginners Guide](https://www.tldp.org/LDP/Bash-Beginners-Guide/html/)[Bash Programming HOWTO](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)[Regexr — Learn Regular Expressions](https://regexr.com/)Ayrıca şu komutların ne işe yaradığını da araştırabilirsiniz: **man**, **sudo**, **chmod**, **ln**, **touch**, **diff**, **telnet**.
 
 ## Kaynaklar
 

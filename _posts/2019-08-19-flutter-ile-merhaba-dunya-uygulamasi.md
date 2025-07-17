@@ -60,4 +60,4 @@ Ardından debug yapalım. Uygulama açılınca sağ alttaki butona basalım. But
 
 ---
 
-Eğer Flutter ile ilgili daha detaylı bilgi almak isterseniz, [Flutter Nedir?](http://erdiucar.local/flutter-nedir-neden-flutter-kullanmaliyim/) ve [Flutter Kurulumu](http://erdiucar.local/flutter-kurulumu-windows/) başlıklı yazılarımı inceleyebilirsiniz. Proje klasörüne [GitHub](https://github.com/erdiucar/flutter_hello_world) sayfamdan ulaşabilirsiniz.
+Eğer Flutter ile ilgili daha detaylı bilgi almak isterseniz, [Flutter Nedir?](https://www.erdiucar.com/flutter-nedir-neden-flutter-kullanmaliyim/) ve [Flutter Kurulumu](https://www.erdiucar.com/flutter-kurulumu-windows/) başlıklı yazılarımı inceleyebilirsiniz. Proje klasörüne [GitHub](https://github.com/erdiucar/flutter_hello_world) sayfamdan ulaşabilirsiniz.

@@ -375,6 +375,6 @@ txtDesifreEdilenYazi.Text = sezar.DesifreEt();
 
 Uygulamayı indirmek için tıklayın (CaesarCipher adlı klasör) => [Github](https://github.com/erdiucar/C-Sharp-Windows-Forms)
 
-Vigenere şifreleme üzerine yazdığım yazıyı incelemek için tıklayın => [Vigenere Şifreleme Programı](http://erdiucar.local/vigenere-sifreleme-programi-c-sharp/)
+Vigenere şifreleme üzerine yazdığım yazıyı incelemek için tıklayın => [Vigenere Şifreleme Programı](https://www.erdiucar.com/vigenere-sifreleme-programi-c-sharp/)
 
-Diğer yazılarımı incelemek için tıklayın => [Erdi Uçar](http://erdiucar.local)
+Diğer yazılarımı incelemek için tıklayın => [Erdi Uçar](https://www.erdiucar.com)

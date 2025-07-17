@@ -421,4 +421,4 @@ Bu yazıyı hazırlarken Pluralsight'ın [Simplifying CSS in Visual Studio With 
 
 ---
 
-Programlama üzerine paylaştığım diğer yazılara bu [linkten](http://erdiucar.local/kategori/programlama/) ulaşabilirsiniz.
+Programlama üzerine paylaştığım diğer yazılara bu [linkten](https://www.erdiucar.com/kategori/programlama/) ulaşabilirsiniz.

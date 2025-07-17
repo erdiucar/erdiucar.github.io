@@ -77,4 +77,4 @@ namespace monty_hall_problem {
 
 ---
 
-Daha önceden [programlama üzerine yazdığım yazıları](http://erdiucar.local/kategori/programlama/) da inceleyebilirsiniz.
+Daha önceden [programlama üzerine yazdığım yazıları](https://www.erdiucar.com/kategori/programlama/) da inceleyebilirsiniz.

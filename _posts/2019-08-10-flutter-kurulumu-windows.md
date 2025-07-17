@@ -72,4 +72,4 @@ Eğer daha detaylı kurulum bilgileri almak isterseniz, Flutter'ın kendi [kurul
 
 ---
 
-Flutter hakkında daha detaylı bilgi için, bir önceki [Flutter Nedir? Neden Flutter Kullanmalıyım?](http://erdiucar.local/flutter-nedir-neden-flutter-kullanmaliyim/) başlıklı yazımı inceleyebilirsiniz. İlk Flutter uygulamanızı yapmak için [Flutter ile Merhaba Dünya Uygulaması](http://erdiucar.local/flutter-ile-merhaba-dunya-uygulamasi/) başlıklı yazıma bakabilirsiniz.
+Flutter hakkında daha detaylı bilgi için, bir önceki [Flutter Nedir? Neden Flutter Kullanmalıyım?](https://www.erdiucar.com/flutter-nedir-neden-flutter-kullanmaliyim/) başlıklı yazımı inceleyebilirsiniz. İlk Flutter uygulamanızı yapmak için [Flutter ile Merhaba Dünya Uygulaması](https://www.erdiucar.com/flutter-ile-merhaba-dunya-uygulamasi/) başlıklı yazıma bakabilirsiniz.

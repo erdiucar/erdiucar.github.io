@@ -65,4 +65,4 @@ Aşağıda paylaştığım sitelerden aradığınız konuyla ilgili kursları bu
 
 ---
 
-Diğer yazılarımı incelemek için tıklayın => [Erdi Uçar](http://erdiucar.local "Erdi Uçar")
+Diğer yazılarımı incelemek için tıklayın => [Erdi Uçar](https://www.erdiucar.com "Erdi Uçar")

@@ -29,7 +29,7 @@ Blaise de Vigenère, 1523-1596 yılları arasında yaşamış Fransız bir diplo
 Başlamadan önce programın nasıl çalıştığını gösterdiğim YouTube videosunu izleyebilirsiniz:
 [https://www.youtube.com/watch?v=0skRgW0xCMs](https://www.youtube.com/watch?v=0skRgW0xCMs)
 
-Vigenere şifreleme algoritması, Sezar şifreleme algoritmasının geliştirilmiş bir versiyonudur. Eğer sezar şifreleme yöntemini bilmiyorsanız, öncelikle onu öğrenmenizi tavsiye ediyorum. Bir önceki [yazımda](http://erdiucar.local/sezar-sifreleme-uygulamasi-c-sharp/) Sezar şifreleme yöntemini anlattım.
+Vigenere şifreleme algoritması, Sezar şifreleme algoritmasının geliştirilmiş bir versiyonudur. Eğer sezar şifreleme yöntemini bilmiyorsanız, öncelikle onu öğrenmenizi tavsiye ediyorum. Bir önceki [yazımda](https://www.erdiucar.com/sezar-sifreleme-uygulamasi-c-sharp/) Sezar şifreleme yöntemini anlattım.
 
 **Not:** *Vigenere Şifreleme programında, Sezar şifreleme programındaki gibi ASCII tablosunu kullanıyorum. Bu yüzden Türkçe karakterler işlemiyor.*
 
@@ -345,6 +345,6 @@ else
 
 Uygulamayı indirmek için tıklayın (VigenereCipher adlı klasör) => [Github](https://github.com/erdiucar/C-Sharp-Windows-Forms)
 
-Sezar şifreleme uygulaması yazımı incelemek için tıklayın => [Sezar Şifreleme Uygulaması (C#)](http://erdiucar.local/sezar-sifreleme-uygulamasi-c-sharp/)
+Sezar şifreleme uygulaması yazımı incelemek için tıklayın => [Sezar Şifreleme Uygulaması (C#)](https://www.erdiucar.com/sezar-sifreleme-uygulamasi-c-sharp/)
 
-Diğer yazılarımı incelemek için tıklayın => [Erdi Uçar](http://erdiucar.local)
+Diğer yazılarımı incelemek için tıklayın => [Erdi Uçar](https://www.erdiucar.com)

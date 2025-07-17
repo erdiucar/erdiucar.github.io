@@ -226,4 +226,4 @@ Projeyi indirmek isterseniz:
 - Arduino için [tıklayın](https://github.com/erdiucar/Arduino) ("Arduino_ile_Internet_Uzerinden_Rgb_Led_Kontrolu" adlı klasör)
 - ASP.NET MVC için [tıklayın](https://github.com/erdiucar/ASP.NET-MVC) ("RgbLedMvc" adlı klasör)
 
-Diğer yazılarımı incelemek için tıklayın => [Erdi Uçar](http://erdiucar.local)
+Diğer yazılarımı incelemek için tıklayın => [Erdi Uçar](https://www.erdiucar.com)

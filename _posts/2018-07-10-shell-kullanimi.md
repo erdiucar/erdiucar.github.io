@@ -604,4 +604,4 @@ Bu yazıyı hazırlarken genel olarak Udacity' nin "Shell Workshop" ve "Linux Co
 
 ---
 
-Diğer yazılarımı incelemek için tıklayın => [Erdi Uçar](http://erdiucar.local "Erdi Uçar")
+Diğer yazılarımı incelemek için tıklayın => [Erdi Uçar](https://www.erdiucar.com "Erdi Uçar")

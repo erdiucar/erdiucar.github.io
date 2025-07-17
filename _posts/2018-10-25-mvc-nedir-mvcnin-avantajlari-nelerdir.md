@@ -44,4 +44,4 @@ Bu arada MVC, [ASP.NET](https://www.asp.net/)'e ait bir yazılım kalıbı deği
 
 ---
 
-Bir önceki paylaşımımda bu konuyla ilgili projemi paylaşmıştım. İncelemek isterseniz **[tıklayın](http://erdiucar.local/arduino-asp-net-mvc-rgb-led-kontrolu/)**.
+Bir önceki paylaşımımda bu konuyla ilgili projemi paylaşmıştım. İncelemek isterseniz **[tıklayın](https://www.erdiucar.com/arduino-asp-net-mvc-rgb-led-kontrolu/)**.

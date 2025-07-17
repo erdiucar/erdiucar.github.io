@@ -75,4 +75,4 @@ Ege Şenkul'un hazırladığı seriyi incelemenizi öneririm. Kurulumdan çeşit
 
 ---
 
-Windows'a kurmak için, [şu yazıma](http://erdiucar.local/flutter-kurulumu-windows/) bakabilirsiniz. Flutter ile ilk uygulamanızı yapmak için [şu yazımı](http://erdiucar.local/flutter-ile-merhaba-dunya-uygulamasi/) inceleyebilirsiniz.
+Windows'a kurmak için, [şu yazıma](https://www.erdiucar.com/flutter-kurulumu-windows/) bakabilirsiniz. Flutter ile ilk uygulamanızı yapmak için [şu yazımı](https://www.erdiucar.com/flutter-ile-merhaba-dunya-uygulamasi/) inceleyebilirsiniz.

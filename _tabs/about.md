@@ -3,13 +3,15 @@
 icon: fas fa-info-circle
 order: 4
 
+title: Hakkımda
+permalink: /hakkimda/
 date: '2018-06-06T01:02:31+03:00'
 description: Öğrenmek benim için bir tutku. Bu tutkumu başka insanlarla paylaşma ihtiyacı hissettiğim için bu blog sayfasını hazırladım.
 ---
 
 ## Hikayem
 
-Anadolu Üniversitesi-Yönetim Bilişim Sistemleri ve İzmir Ekonomi Üniversitesi-Bilgisayar Programcılığı bölümlerinden mezunum. Yıllarca müzik sektöründe çalıştıktan sonra yazılım sektörüne yöneldim. Şu an yazılım geliştirme uzmanı olarak çalışıyorum. Beste yapmayı, şarkı söylemeyi, gitar çalmayı, satranç oynamayı ve kitap okumayı seviyorum.
+Anadolu Üniversitesi-Yönetim Bilişim Sistemleri ve İzmir Ekonomi Üniversitesi-Bilgisayar Programcılığı bölümlerinden mezunum. Yıllarca müzik sektöründe çalıştıktan sonra yazılım sektörüne yöneldim. Şu an kıdemli yazılım geliştirme uzmanı olarak çalışıyorum. Beste yapmayı, şarkı söylemeyi, gitar çalmayı, satranç oynamayı ve kitap okumayı seviyorum.
 
 ## Neden Blog Açtım?
 

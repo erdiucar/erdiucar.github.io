@@ -46,9 +46,7 @@ Shell ile etkileşimde kullandığımız programa, *terminal programı* denir. T
 
 ## Windows'da Shell (Kabuk) Kurulumu ve Ayarları
 
-[![Windows'a Shell Kurulumu](https://img.youtube.com/vi/5E0wopDFulY/hqdefault.jpg)](https://www.youtube.com/watch?v=5E0wopDFulY)
-
-👉 [YouTube'da izle](https://www.youtube.com/watch?v=5E0wopDFulY)
+<iframe class="embed-video" src="https://www.youtube.com/embed/5E0wopDFulY" loading="lazy" title="Windows'a Shell Kurulumu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Windows'a **Git-Bash**'i indirip kurmak için [tıklayınız](https://git-scm.com/download/win).
 

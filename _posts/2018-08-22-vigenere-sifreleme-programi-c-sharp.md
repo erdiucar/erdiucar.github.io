@@ -28,9 +28,7 @@ Blaise de Vigenère, 1523-1596 yılları arasında yaşamış Fransız bir diplo
 
 Başlamadan önce programın nasıl çalıştığını gösterdiğim YouTube videosunu izleyebilirsiniz:
 
-[![Vigenere Şifreleme Programı - C#](https://img.youtube.com/vi/0skRgW0xCMs/hqdefault.jpg)](https://www.youtube.com/watch?v=0skRgW0xCMs)
-
-👉 [YouTube'da İzle](https://www.youtube.com/watch?v=0skRgW0xCMs)
+<iframe class="embed-video" src="https://www.youtube.com/embed/0skRgW0xCMs" loading="lazy" title="Vigenere Şifreleme Programı - C#" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Vigenere şifreleme algoritması, Sezar şifreleme algoritmasının geliştirilmiş bir versiyonudur. Eğer sezar şifreleme yöntemini bilmiyorsanız, öncelikle onu öğrenmenizi tavsiye ediyorum. Bir önceki [yazımda](https://www.erdiucar.com/sezar-sifreleme-uygulamasi-c-sharp/) Sezar şifreleme yöntemini anlattım.
 

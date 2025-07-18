@@ -25,9 +25,7 @@ Gaius Julius Caesar (M.Ö 100-44)
 
 Detaylara girmeden önce programın nasıl çalıştığını gösterdiğim YouTube videosunu izleyebilirsiniz:
 
-[![Sezar Şifreleme Uygulaması - C#](https://img.youtube.com/vi/jX6d1NVaZ5w/hqdefault.jpg)](https://www.youtube.com/watch?v=jX6d1NVaZ5w)
-
-👉 [YouTube'da İzle](https://www.youtube.com/watch?v=jX6d1NVaZ5w)
+<iframe class="embed-video" src="https://www.youtube.com/embed/jX6d1NVaZ5w" loading="lazy" title="Sezar Şifreleme Uygulaması - C#" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Not:** *Bu programda İngiliz alfabesini kullanıyorum. Çünkü programı kodlarken ASCII tablosunu kullandım. Ayrıca kullandığım bir fonksiyon, Türkçe harfleri alfabeden saymıyor.*
 

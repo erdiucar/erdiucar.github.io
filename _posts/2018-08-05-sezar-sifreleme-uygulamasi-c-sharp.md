@@ -135,7 +135,9 @@ Geriye tek bir adım kaldı. O da çıkan sayıyı 65 ile toplamak. Bu sayede **
 
 ## Sezar Şifreleme Uygulamasının Kodları
 
-Programı Visual Studio ortamında Windows Forms Uygulaması olarak yazdım. Dil olarak C# kullandım. Bir görsel arayüz hazırladım. Bu görsel arayüzle hem bir metni şifreleyebiliyor hem de deşifre edebiliyorsunuz. ![Sezar şifreleme uygulamasının arayüz ekranı](/assets/img/posts/2018/08/sezar-şifreleme-uygulama-ekranı.png) Uygulamanın arayüz ekranı
+Programı Visual Studio ortamında Windows Forms Uygulaması olarak yazdım. Dil olarak C# kullandım. Bir görsel arayüz hazırladım. Bu görsel arayüzle hem bir metni şifreleyebiliyor hem de deşifre edebiliyorsunuz. Uygulamanın arayüz ekranı:
+
+![Sezar şifreleme uygulamasının arayüz ekranı](/assets/img/posts/2018/08/sezar-şifreleme-uygulama-ekranı.png)
 
 ### Sezar Şifreleme ve Deşifre Etme Sınıfının Kodları
 

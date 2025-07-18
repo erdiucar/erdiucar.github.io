@@ -25,7 +25,7 @@ Sass kullanımını örnekleriyle size göstereceğim. Yazıda Visual Studio üz
 
 ### Değişkenler
 
-```css
+```scss
 $brand-color: red;
 h1 {
   color: $brand-color;
@@ -38,7 +38,7 @@ Color parametresine $brand-color değişkenini atadık. Tüm h1 etiketli başlı
 
 Mixin, Sass kullanırken yazdığımız **fonksiyonlara** verilen isimdir. Kullanımı aşağıdaki gibidir:
 
-```css
+```scss
 @mixin standard-button($background-color) {
   font-size: $button-font-size;
   width: $button-width;
@@ -61,7 +61,7 @@ Mixin, Sass kullanırken yazdığımız **fonksiyonlara** verilen isimdir. Kulla
 
 ### İç içe Kullanım
 
-```css
+```scss
 // CSS
 nav { }
 nav ul { }
@@ -73,7 +73,7 @@ nav {
 
 Diğer kullanımı da şu şekilde:
 
-```css
+```scss
 // CSS
 nav { }
 nav > ul { }
@@ -85,7 +85,7 @@ nav {
 
 *:focus*, *:hover* gibi özellikleri kullanırken başına "&" karakterini ekleyerek yazabilirsiniz:
 
-```css
+```scss
 // CSS
 .button {
   background-color: red;
@@ -104,7 +104,7 @@ nav {
 
 Eğer elinizde "button" ve "button-danger" isimli iki sınıfınız varsa şu şekilde yazabilirsiniz:
 
-```css
+```scss
 // CSS
 .button {
   background-color: blue;
@@ -129,7 +129,7 @@ Yazdığınız ***Sass*** kodunu parçalara bölebilirsiniz. Aşağıdaki örnek
 
 ### @extend Kullanımı
 
-```css
+```scss
 .button {
   color: wheat;
   text-align: center;
@@ -152,7 +152,7 @@ HTML içinde butonunun sınıfları içerisine class="button yes" yazmak yerine,
 
 ### Yorum Satırları
 
-```css
+```scss
 // Bu şekilde yorum satırı yazabilirsiniz.
 /* Ya da bu şekilde yorum yazabilirsiniz. */
 ```
@@ -161,14 +161,14 @@ HTML içinde butonunun sınıfları içerisine class="button yes" yazmak yerine,
 
 @debug ve @warn kullanarak debug veya uyarı mesajı yazdırabilirsiniz.
 
-```css
+```scss
 $brand-color: red;
 @debug total width $brand-color;
 ```
 
 ### Matematik İşlemleri
 
-```css
+```scss
 $total-pixel-width: 1000px - 200px;
 $number-of-columns: 2 * 2 - 1;
 $col-width: $total-pixel-width / $number-of-columns;
@@ -184,7 +184,7 @@ $col-width: $total-pixel-width / $number-of-columns;
 
 Listenin eleman sayısını döndürür.
 
-```css
+```scss
 $space-delimited-list: 10px 20px 30px 40px;
 @debug length is length($space-delimited-list);
 ```
@@ -193,7 +193,7 @@ $space-delimited-list: 10px 20px 30px 40px;
 
 Listeden istediğiniz sıradaki elemanı döndürür.
 
-```css
+```scss
 $comma-seperated-list: #ffa752, #52ff90, #fd52ff;
 @debug 2nd item is nth($comma-seperated-list, 2);
 ```
@@ -202,7 +202,7 @@ $comma-seperated-list: #ffa752, #52ff90, #fd52ff;
 
 Listeleri birleştirir.
 
-```css
+```scss
 $space-delimited-list: 10px 20px 30px 40px;
 $another-space-delimited-list: 50px 60px 70px 80px;
 $joined: join($space-delimited-list, $another-space-delimited-list);
@@ -213,7 +213,7 @@ $joined: join($space-delimited-list, $another-space-delimited-list);
 
 Listeye ekleme yapar.
 
-```css
+```scss
 $comma-seperated-list: #ffa752, #52ff90, #fd52ff;
 $comma-seperated-list: append($comma-seperated-list, blue);
 @debug appended list $comma-seperated-list;
@@ -223,7 +223,7 @@ $comma-seperated-list: append($comma-seperated-list, blue);
 
 Belirtilen elemanın sırasını döndürür.
 
-```css
+```scss
 @debug index of blue index($comma-seperated-list, blue);
 ```
 
@@ -231,7 +231,7 @@ Belirtilen elemanın sırasını döndürür.
 
 @content yazdığımız yere, mixin kullanırken eklediğimiz her özellik eklenir. Aşağıda Scss ve CSS karşılaştırmasına bakabilirsiniz.
 
-```css
+```scss
 // SCSS
 @mixin screen-media($width) {
   @media screen and (max-width: $width) {
@@ -273,7 +273,7 @@ aside {
 
 C#'taki *params* gibi, mixin'e birden fazla parametre girmek mümkün.
 
-```css
+```scss
 @mixin shadow($shadows...) {
   box-shadow: $shadows;
 }
@@ -296,7 +296,7 @@ C#'taki *params* gibi, mixin'e birden fazla parametre girmek mümkün.
 
 Tüm [renk fonksiyonlarını](https://sass-lang.com/documentation/functions/color) kendi sitesinden inceleyebilirsiniz. Aşağıda *lighten()* ve *darken()* fonksiyonlarını gösterdim.
 
-```css
+```scss
 $root-color: #0099ff;
 // Rengi %35 açıklaştırıyor
 body {
@@ -312,7 +312,7 @@ h1 {
 
 Örnekte gördüğünüz gibi parametreye göre değişen bir kod yapısı var.
 
-```css
+```scss
 @mixin mediaQuery($break) {
   $value: map-get($breakpoints, $break);
   @if $break == "lg" {
@@ -331,7 +331,7 @@ h1 {
 
 Aşağıdaki örnekte 5 adet farklı renkte div'in for döngüsüyle nasıl oluşturulduğunu görüyoruz. Ayrıca @extend kullanımının diğer bir şeklini de (% karakteri) kodlarda görebilirsiniz.
 
-```css
+```scss
 $tile-size: 100px;
 %tile {
   width: $tile-size;
@@ -351,7 +351,7 @@ $tile-size: 100px;
 
 Each döngüsünün kullanımı, C#'taki foreach döngüsü gibi. Bir listenin elemanlarını döndürmek istediğiniz zaman kullanabilirsiniz.
 
-```css
+```scss
 $tile-size: 100px;
 $tile-colors: blue, green, yellow, orange, red;
 %tile {
@@ -373,7 +373,7 @@ $tile-colors: blue, green, yellow, orange, red;
 
 Map, key ve value barındıran bir listedir. Aşağıdaki *$team-colors*, bir map örneğidir. Kodun en altında *map-get()* metodu var. Bu metot ile value döndürülebiliyor.
 
-```css
+```scss
 $tile-size: 100px;
 $team-colors: (
   turkey: red,
@@ -398,7 +398,7 @@ $team-colors: (
 
 font-family, font-size gibi "-" işaretinden öncesi aynı olan özellikler için aşağıdaki gibi tanımlama yapabilirsiniz.
 
-```css
+```scss
 // CSS
 body {
   font-family: Arial;

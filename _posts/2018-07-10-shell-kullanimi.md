@@ -46,7 +46,10 @@ Shell ile etkileşimde kullandığımız programa, *terminal programı* denir. T
 
 ## Windows'da Shell (Kabuk) Kurulumu ve Ayarları
 
-[YouTube'da izleyin](https://youtu.be/5E0wopDFulY)  
+[![Windows'a Shell Kurulumu](https://img.youtube.com/vi/5E0wopDFulY/hqdefault.jpg)](https://www.youtube.com/watch?v=5E0wopDFulY)
+
+👉 [YouTube'da izle](https://www.youtube.com/watch?v=5E0wopDFulY)
+
 Windows'a **Git-Bash**'i indirip kurmak için [tıklayınız](https://git-scm.com/download/win).
 
 Birçok terminal programı, içinde font ve renk değişimi gibi özelliklere sahip. Ayrıca aynı anda birçok terminal açabilirsiniz. Birinde bir iş yaparken, diğerinde de başka bir işle uğraşabilirsiniz.

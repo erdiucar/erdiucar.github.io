@@ -24,7 +24,10 @@ Gaius Julius Caesar (M.Ö 100-44)
 ## Sezar Şifreleme Algoritması
 
 Detaylara girmeden önce programın nasıl çalıştığını gösterdiğim YouTube videosunu izleyebilirsiniz:
-[https://youtu.be/jX6d1NVaZ5w](https://youtu.be/jX6d1NVaZ5w)
+
+[![Sezar Şifreleme Uygulaması - C#](https://img.youtube.com/vi/jX6d1NVaZ5w/hqdefault.jpg)](https://www.youtube.com/watch?v=jX6d1NVaZ5w)
+
+👉 [YouTube'da İzle](https://www.youtube.com/watch?v=jX6d1NVaZ5w)
 
 **Not:** *Bu programda İngiliz alfabesini kullanıyorum. Çünkü programı kodlarken ASCII tablosunu kullandım. Ayrıca kullandığım bir fonksiyon, Türkçe harfleri alfabeden saymıyor.*
 

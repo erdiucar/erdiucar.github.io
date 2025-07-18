@@ -26,7 +26,10 @@ Günümüz teknolojisi sayesinde internete bağlı olan nesneler, hayatlarımız
 ## Projeyi Nasıl Yaptım?
 
 Bu projemde, Arduino'ya internet sitesi üzerinden erişerek RGB Led kontrol ediyorum. Önce internet sitesi üzerinde Hex kodunu kırmızı, yeşil ve mavi renk olarak ayırıyorum. Led'i açacaksam, karta mesajı "kırmızı + yeşil + mavi + hex kodu" olarak gönderiyorum. Kapayacaksam "Kapat" mesajı gönderiyorum. Arduino içinde bu gelen mesaja bakıyorum. Eğer mesaj renk açmayla ilgiliyse, mesajı tekrar renklere ayırıp Led'i yakıyorum. "Kapat" mesajı geldiyse Led'i kapıyorum. Ayrıca Arduino'dan, bağlanan siteye RGB Led'in durumuyla ilgili mesaj gönderiyorum. Aynı rengin tekrar açılması istendiyse Led'i ellemiyorum ve siteye "Renk aynı" mesajı gönderiyorum. Kapalıyken kapanması istendiyse, siteye "Kapalı" mesajı gönderiyorum. İnternet sitesine gelen mesaja bakarak, Arduino'nun hangi tarih-saatte açılıp kapandığının ve hangi renk olduğunun bilgisini veri tabanına ekliyorum. Eğer aynı rengi bir daha açma mesajı gönderdiysem veya kapalıyken tekrar kapama butonuna bastıysam, veri tabanına herhangi bir ekleme yapmıyorum ve sayfayı yeniliyorum. İnternet sitesini ASP.NET MVC ile yaptım. Tasarımını Bootstrap ile yaptım. Veri tabanını, Entity Framework kullanarak, *Code First* tekniğiyle oluşturdum. Veri sorgulama, ekleme ve çıkarma işlemlerini LINQ Ve Entity Framework aracılığıyla yaptım. Projeyi aşağıdaki videodan izleyebilirsiniz:
-[https://youtu.be/wOaQA5FbZU8](https://youtu.be/wOaQA5FbZU8)
+
+[![Arduino ve ASP.NET MVC ile RGB Led Kontrolü Projesi](https://img.youtube.com/vi/wOaQA5FbZU8/hqdefault.jpg)](https://www.youtube.com/watch?v=wOaQA5FbZU8)
+
+👉 [YouTube'da İzle](https://www.youtube.com/watch?v=wOaQA5FbZU8)
 
 ## Projede kullandığım malzemeler
 

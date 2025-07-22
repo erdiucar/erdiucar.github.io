@@ -1,22 +1,12 @@
 ---
 title: 'Online Eğitim Siteleri'
-date: '2018-06-17T17:31:23+03:00'
+date: 2018-06-17 17:31:23 +0300
 description: Online eğitim siteleri sayesinde insanlar ücretsiz olarak eğitim alabiliyor.
   Bu yazımda sizlere severek takip ettiğim online eğitim sitelerini tanıtacağım.
-layout: post
 permalink: /online-egitim-siteleri/
 image: /assets/img/posts/2018/06/online-egitim.png
-categories:
-    - Egitim
-tags:
-    - 'eğitim siteleri'
-    - 'internetten eğitim'
-    - 'online ders'
-    - 'online eğitim'
-    - 'online kurs'
-    - 'ücretsiz eğitim'
-    - 'ücretsiz eğitim siteleri'
-    - 'ücretsiz online eğitim'
+categories: [Egitim]
+tags: [eğitim siteleri, internetten eğitim, online ders, online eğitim, online kurs, ücretsiz eğitim, ücretsiz eğitim siteleri, ücretsiz online eğitim]
 ---
 
 Son yıllarda **online eğitim siteleri** sayesinde insanlar ücretsiz olarak internetten kendilerini geliştiriyor. İnternet sayesinde artık bilgiye ulaşmak çok kolay. Hatta dünyanın en prestijli üniversitelerinin derslerinin projelerini yaparak sertifika bile alabilirsiniz. Kariyeriniz için de çok faydalı olacağı kesin. İngilizcede bu kurslar **MOOC** (Massive Open Online Course) adıyla geçiyor. Yani "Kitlesel Açık Çevrimiçi Kurs*"* anlamına geliyor. Şahsen ben öğrendiğim ve uzmanlaştığım birçok konuyu online eğitim sitelerine borçluyum. Bu yazımda sizlere beğenerek takip ettiğim ve ders aldığım bazı online eğitim sitelerini tanıtacağım.

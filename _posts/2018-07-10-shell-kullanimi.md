@@ -1,35 +1,12 @@
 ---
 title: 'Shell Kullanımı'
-date: '2018-07-10T19:00:40+03:00'
+date: 2018-07-10 19:00:40 +0300
 description: Shell, bilgisayardaki programları çalıştırmak için bir komut satırı arabirimidir.
   Bu yazımda Shell kullanımı ile ilgili bilgiler veriyorum.
-layout: post
 permalink: /shell-kullanimi/
 image: /assets/img/posts/2018/07/shell-kullanımı-1.png
-categories:
-    - Programlama
-tags:
-    - bash
-    - 'bash komutları'
-    - 'bash kullanımı'
-    - 'bash programlama'
-    - kabuk
-    - 'kabuk komutları'
-    - 'kabuk kullanımı'
-    - 'kabuk programlama'
-    - 'komut istemi'
-    - 'komut satırı'
-    - 'konsol komutları'
-    - 'linux komut satırı'
-    - 'linux komutları'
-    - 'linux konsol'
-    - 'linux konsol komutları'
-    - 'linux terminal komutları'
-    - shell
-    - 'shell komutları'
-    - 'shell programlama'
-    - terminal
-    - 'terminal komutları'
+categories: [Programlama]
+tags: [bash, bash komutları, bash kullanımı, bash programlama, kabuk, kabuk komutları, kabuk kullanımı, kabuk programlama, komut istemi, komut satırı, konsol komutları, linux komut satırı, linux komutları, linux konsol, linux konsol komutları, linux terminal komutları, shell, shell komutları, shell programlama, terminal, terminal komutları]
 ---
 
 ## Shell (Kabuk) Nedir?

@@ -1,26 +1,17 @@
 ---
 title: 'Monty Hall Problemi ve Monty Hall Problemi Programı (C#)'
-date: '2020-03-01T21:55:00+03:00'
+date: 2020-03-01 21:55:00 +0300
 description: Monty Hall problemi, Amerikan TV yarışma programı Let's Make a Deal'a
   dayanır. Bu yazımda, Monty Hall problemini anlattım ve programını paylaştım.
-layout: post
 permalink: /monty-hall-problemi-ve-monty-hall-problemi-programi/
 image: /assets/img/posts/2020/03/monty-hall-problemi-825x510.jpg
-categories:
-  - Genel
-  - Programlama
-tags:
-  - 'monty hall'
-  - 'monty hall problemi'
-  - 'monty hall problemi programı'
-  - 'monty hall problemi simülasyonu'
-  - 'monty hall programı'
-  - 'monty hall simülasyonu'
+categories: [Genel, Programlama]
+tags: [monty hall, monty hall problemi, monty hall problemi programı, monty hall problemi simülasyonu, monty hall programı, monty hall simülasyonu]
 ---
 
 **Monty Hall problemi**, Amerikan TV yarışma programı [*Let's Make a Deal*](https://tr.wikipedia.org/wiki/Let%27s_Make_a_Deal?oldformat=true)'a dayanır. Bu problem, adını yarışmayı sunan Monty Hall'dan alır. Öncelikle Monty Hall problemini anlamak için yarışmanın formatını size anlatmak istiyorum.
 
-![Monty Hall Problemi](/assets/img/posts/2020/03/1280px-Monty_open_door.svg_.png)
+![Monty Hall Problemi](/assets/img/posts/2020/03/1280px-Monty_open_door.svg_.png){: .bg-white .p-2 }
 
 Yarışmada 3 tane kapı bulunuyor. Kapıların arkasında ne olduğunu göremiyorsunuz. Bu kapıların bir tanesinin arkasında araba bulunuyor. Diğer 2 kapının arkasında ise keçi var. Sunucu sizden bir kapıyı seçmenizi istiyor. Siz kapıyı seçtikten sonra, sunucu sizin seçmediğiniz 2 kapıdan arkasında keçi bulunan bir tanesini açıyor. Ardından size seçtiğiniz kapıyı değiştirmek ister misiniz diye soruyor. Önünüzde açılmamış iki tane kapı var. Arkasında araba olan kapıyı seçerseniz araba sizindir. Siz olsanız en başta seçtiğiniz kapıyı değiştirir misiniz?
 

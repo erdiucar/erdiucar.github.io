@@ -1,24 +1,12 @@
 ---
 title: 'Flutter Nedir? Neden Flutter Kullanmalıyım?'
-date: '2019-08-08T21:29:36+03:00'
+date: 2019-08-08 21:29:36 +0300
 description: Flutter, Google'ın geliştirdiği açık kaynaklı bir mobil uygulama geliştirme
   çatısıdır. Bu yazımda Flutter'ı anlattım ve öğrenmek için kaynak paylaştım.
-layout: post
 permalink: /flutter-nedir-neden-flutter-kullanmaliyim/
 image: /assets/img/posts/2019/08/flutter-google-800x510.png
-categories:
-  - Programlama
-tags:
-  - android
-  - 'android geliştirme'
-  - dart
-  - flutter
-  - google
-  - ios
-  - 'ios geliştirme'
-  - mobil
-  - 'mobil geliştirme'
-  - 'mobil uygulama geliştirme'
+categories: [Programlama]
+tags: [android, android geliştirme, dart, flutter, google, ios, ios geliştirme, mobil, mobil geliştirme, mobil uygulama geliştirme]
 ---
 
 ## Flutter Nedir?

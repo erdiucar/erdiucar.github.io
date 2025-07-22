@@ -1,19 +1,12 @@
 ---
 title: 'Flutter Kurulumu (Windows)'
-date: '2019-08-10T14:15:08+03:00'
+date: 2019-08-10 14:15:08 +0300
 description: Windows'a Flutter kurulumu nasıl yapılır sorusuna bu yazıma bakarak cevap
   bulabilirsiniz. Diğer platformlara kurulum için de yönlendirmeler yazıda mevcut.
-layout: post
 permalink: /flutter-kurulumu-windows/
 image: /assets/img/posts/2019/08/flutter-kurulumu-825x510.png
-categories:
-  - Programlama
-tags:
-  - android studio
-  - flutter
-  - flutter kurulumu
-  - flutter kurulumu windows
-  - windows flutter kurulumu
+categories: [Programlama]
+tags: [android studio, flutter, flutter kurulumu, flutter kurulumu windows, windows flutter kurulumu]
 ---
 
 ## Flutter Kurulumu İçin Minimum Sistem Gereksinimleri

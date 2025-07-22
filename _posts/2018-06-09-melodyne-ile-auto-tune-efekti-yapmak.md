@@ -1,21 +1,14 @@
 ---
 title: 'Melodyne ile Auto-Tune Efekti Yapmak'
-date: '2018-06-09T21:46:09+03:00'
+date: 2018-06-09 21:46:09 +0300
 description: Bu videomda Melodyne kullanarak, Auto-Tune ile yapılan ses efektinin
   nasıl yapılacağını anlatıyorum. Melodyne notalarla oynamaya yarayan bir müzik programı.
-layout: post
 permalink: /melodyne-ile-auto-tune-efekti-yapmak/
 image:
-  alt: Melodyne ile Auto-Tune Efekti Yapmak
   path: /assets/img/posts/2018/06/Melodyne-ile-Auto-Tune-efekti-yapmak-1-e1528574548385.png
-categories:
-    - Muzik
-tags:
-    - auto-tune
-    - 'auto-tune efekti'
-    - chorus
-    - melodyne
-    - 'melodyne kullanımı'
+  alt: Melodyne ile Auto-Tune Efekti Yapmak
+categories: [Muzik]
+tags: [auto-tune, auto-tune efekti, chorus, melodyne, melodyne kullanımı]
 ---
 
 {% include embed/youtube.html id='QyJnBUxaRuE' %}

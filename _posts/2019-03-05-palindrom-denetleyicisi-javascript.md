@@ -1,20 +1,12 @@
 ---
 title: 'Palindrom Denetleyicisi (JavaScript)'
-date: '2019-03-05T11:45:23+03:00'
+date: 2019-03-05 11:45:23 +0300
 description: Bu yazımda girilen kelime, sayı veya cümlenin palindrom olup olmadığını
   denetleyen programın kodlarını paylaştım. Programı JavaScript ile yazdım.
-layout: post
 permalink: /palindrom-denetleyicisi-javascript/
 image: /assets/img/posts/2019/03/palindrom-denetleyicisi-skyrim-825x510.png
-categories:
-  - Programlama
-tags:
-  - 'ejderha dili'
-  - javascript
-  - palindrom
-  - 'palindrom denetleyicisi'
-  - 'palindrom nedir'
-  - skyrim
+categories: [Programlama]
+tags: [ejderha dili, javascript, palindrom, palindrom denetleyicisi, palindrom nedir, skyrim]
 ---
 
 ## Palindrom Nedir?

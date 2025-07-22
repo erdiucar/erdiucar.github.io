@@ -1,25 +1,20 @@
 ---
 title: 'Sezar Şifreleme Uygulaması (C#)'
-date: '2018-08-05T20:56:22+03:00'
+date: 2018-08-05 20:56:22 +0300
 description: Sezar şifreleme yöntemi, Gaius Julius Caesar tarafından kullanılmıştır.
   Bu yazımda, Sezar şifreleme yöntemini kullanarak hazırladığım uygulamayı paylaştım.
-layout: post
 permalink: /sezar-sifreleme-uygulamasi-c-sharp/
 image: /assets/img/posts/2018/08/sezar-şifreleme-825x510.png
-categories:
-    - Programlama
-tags:
-    - sezar algoritması
-    - sezar şifreleme algoritması
-    - sezar şifreleme programı
-    - sezar şifreleme yöntemi
-    - sezar şifresi
+categories: [Programlama]
+tags: [sezar algoritması, sezar şifreleme algoritması, sezar şifreleme programı, sezar şifreleme yöntemi, sezar şifresi]
 ---
 
 ## Gaius Julius Caesar
 
-Gaius Julius Caesar, milattan önce 100-44 yılları arasında Roma İmparatorluğu'nda yaşamış bir general ve diktatördür. Diplomatik yazılar yazmada çok yetenekliymiş. Ayrıca gizli yazışmaları çok severmiş. **Sezar şifreleme** metodunu, Galya Seferi sırasında Roma'da bulunan dost ve meslektaşlarıyla olan yazışmalarında kullanmış. Çünkü, bu yazılar Roma'ya döndüğünde gerçekleştireceği politik entrikanın planlarını içeriyormuş. ![Gaius Julius Caesar](/assets/img/posts/2018/08/gaius-julius-caesar.jpg)
-Gaius Julius Caesar (M.Ö 100-44)
+Gaius Julius Caesar, milattan önce 100-44 yılları arasında Roma İmparatorluğu'nda yaşamış bir general ve diktatördür. Diplomatik yazılar yazmada çok yetenekliymiş. Ayrıca gizli yazışmaları çok severmiş. **Sezar şifreleme** metodunu, Galya Seferi sırasında Roma'da bulunan dost ve meslektaşlarıyla olan yazışmalarında kullanmış. Çünkü, bu yazılar Roma'ya döndüğünde gerçekleştireceği politik entrikanın planlarını içeriyormuş. 
+
+![Gaius Julius Caesar](/assets/img/posts/2018/08/gaius-julius-caesar.jpg)
+_Gaius Julius Caesar (M.Ö 100-44)_
 
 ## Sezar Şifreleme Algoritması
 
@@ -80,7 +75,7 @@ Anahtar sayı = 2
 
 Şifrelenecek harfin alfabedeki sırasını öğrenmenin kodla ilgili kısmına geleyim. Başta belirttiğim üzere programda ASCII tablosunu temel alarak kodlama yaptım. Hemen ASCII tablosunu inceleyelim.
 
-![ASCII Tablosu](/assets/img/posts/2018/08/ASCII-tablosu.png)
+![ASCII Tablosu](/assets/img/posts/2018/08/ASCII-tablosu.png){: .bg-white .p-2 }
 
 Her karakterin, ondalık sayı sisteminde (Decimal) bir karşılığı var. Mesela büyük "A" harfinin Decimal karşılığı 65. Küçük harf "a" harfinin Decimal karşılığı 97.
 

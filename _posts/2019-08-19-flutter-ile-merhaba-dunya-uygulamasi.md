@@ -1,15 +1,12 @@
 ---
 title: 'Flutter ile Merhaba Dünya Uygulaması'
-date: '2019-08-19T20:24:50+03:00'
+date: 2019-08-19 20:24:50 +0300
 description: Flutter yazı serime bu paylaşımımla devam ediyorum. Flutter ile Merhaba
   Dünya uygulaması yaptım ve detaylarını sizlerle paylaştım.
-layout: post
 permalink: /flutter-ile-merhaba-dunya-uygulamasi/
 image: /assets/img/posts/2019/08/hello-world-app-flutter-825x448.png
-categories:
-  - Programlama
-tags:
-  - flutter
+categories: [Programlama]
+tags: [flutter]
 ---
 
 Flutter ile Merhaba Dünya Uygulaması yaparken, kod yapısına biraz aşinalık kazanacağız. Proje klasörünün oluşturulacağı konumda aşağıdaki kodu çalıştırıyoruz:

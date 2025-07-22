@@ -5,7 +5,7 @@ order: 4
 
 title: Hakkımda
 permalink: /hakkimda/
-date: '2018-06-06T01:02:31+03:00'
+date: 2018-06-06 01:02:31 +0300
 description: Öğrenmek benim için bir tutku. Bu tutkumu başka insanlarla paylaşma ihtiyacı hissettiğim için bu blog sayfasını hazırladım.
 ---
 

@@ -1,20 +1,12 @@
 ---
 title: 'Arduino ve ASP.NET MVC ile RGB Led Kontrolü Projesi'
-date: '2018-08-25T16:16:02+03:00'
+date: 2018-08-25 16:16:02 +0300
 description: Projemde, Arduino' ya internet sitesi üzerinden erişerek RGB Led kontrol
   ediyorum. Web sitesini ASP.NET MVC ile yaptım. Entity Framework ve LINQ kullandım.
-layout: post
 permalink: /arduino-asp-net-mvc-rgb-led-kontrolu/
 image: /assets/img/posts/2018/08/Arduino-asp-net-mvc-rgb-led-825x510.jpg
-categories:
-  - Programlama
-tags:
-  - arduino
-  - 'asp.net mvc'
-  - 'internet of things'
-  - iot
-  - 'nesnelerin interneti'
-  - 'rgb led'
+categories: [Programlama]
+tags: [arduino, asp.net mvc, internet of things, iot, nesnelerin interneti, rgb led]
 ---
 
 ## Arduino ile Nesnelerin İnterneti (Internet of Things - IoT)

@@ -1,18 +1,11 @@
 ---
-title: 'MVC Nedir? MVC&#8217;nin Avantajları Nelerdir?'
-date: '2018-10-25T20:27:22+03:00'
-description: MVC (Model View Controller), web tasarımında çok sık kullanılan bir yazılım
-  kalıbı veya yazılım sistemidir. Bu yazımda sizlere MVC'yi anlatıyorum.
-layout: post
+title: "MVC Nedir? MVC'nin Avantajları Nelerdir?"
+date: 2018-10-25 20:27:22 +0300
+description: MVC (Model View Controller), web tasarımında çok sık kullanılan bir yazılım kalıbı veya yazılım sistemidir. Bu yazımda sizlere MVC'yi anlatıyorum.
 permalink: /mvc-nedir-mvcnin-avantajlari-nelerdir/
 image: /assets/img/posts/2018/10/mvc-825x510.png
-categories:
-  - Programlama
-tags:
-  - 'asp.net mvc'
-  - model-view-controller
-  - mvc
-  - 'mvc nedir'
+categories: [Programlama]
+tags: [asp.net mvc, model-view-controller, mvc, mvc nedir]
 ---
 
 ## MVC (Model-View-Controller)
@@ -31,7 +24,7 @@ View, kullanıcıların gördüğü kısımdır. Yani uygulamamızda kullanıcı
 
 Controller, uygulamamızda köprü görevi gören kısımdır. Kullanıcıdan (View) gelen isteklere göre veritabanından (Model) verileri alıp, gelen verileri tekrar kullanıcıya (View) gösterebiliriz.
 
-![MVC Nedir](/assets/img/posts/2018/10/mvc-nedir.png)
+![MVC Nedir](/assets/img/posts/2018/10/mvc-nedir.png){: .bg-white .p-2 }
 
 Bu arada MVC, [ASP.NET](https://www.asp.net/)'e ait bir yazılım kalıbı değil. Microsoft sadece bu sistemi geliştiricilerin kullanımına sunmuş.
 

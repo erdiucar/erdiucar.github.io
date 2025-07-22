@@ -1,21 +1,12 @@
 ---
 title: 'Vigenere Şifreleme Programı (C#)'
-date: '2018-08-22T21:46:57+03:00'
+date: 2018-08-22 21:46:57 +0300
 description: Vigenere şifreleme tekniği, bir zamanlar "kırılmaz şifre" diye anılıyordu.
   Yazımda, Vigenere şifreleme tekniğini kullanarak yazdığım programı anlatıyorum.
-layout: post
 permalink: /vigenere-sifreleme-programi-c-sharp/
 image: /assets/img/posts/2018/08/vigenere-sifreleme-825x510.jpg
-categories:
-  - Programlama
-tags:
-  - 'sezar şifreleme'
-  - 'sezar şifrelemesi'
-  - 'vigenere algoritması'
-  - 'vigenere şifre çözme'
-  - 'vigenere şifreleme tekniği'
-  - 'vigenere şifrelemesi'
-  - 'vigenere tablosu'
+categories: [Programlama]
+tags: [sezar şifreleme, sezar şifrelemesi, vigenere algoritması, vigenere şifre çözme, vigenere şifreleme tekniği, vigenere şifrelemesi, vigenere tablosu]
 ---
 
 ## Blaise de Vigenère
@@ -23,6 +14,7 @@ tags:
 Blaise de Vigenère, 1523-1596 yılları arasında yaşamış Fransız bir diplomattır. Roma'da görev yaptığı esnada kriptografi ile ilgilenmeye başlamış. O dönemde İtalya, Avrupa şifrebiliminin merkeziymiş. Vigenere emekliliği sırasında çeşitli konular üzerine kitaplar yazmış. Bunlardan birisi *Traictè des Chiffres ou Secrètes Manières d'Escrire* (1586) idi. Kitapta Giovan Battista Bellaso'nun *Tabula Recta (Kademeli Sezar şifreleme sistemi)* şiflemesi dahil, çeşitli kod ve şifreleri incelemiş. Tabula Recta 19. yüzyılda yanlışlıkla **de Vigenere**'e atfedilmiş. Vigenere, Bellaso'nun şifreleme yöntemini daha da geliştirerek kendi **Vigenere şifreleme** yöntemini oluşturmuş. Bu yöntemde tabloyu 26x26'ya genişletmiş ve şifreleme için otomatik anahtar sistemini ortaya atmış. Sistem, şifrebilim tarihinde bir dönüm noktası olmuş ve gizli mesaj gönderiminde, özellikle de savaş dönemlerinde çok güvenli bir yol sağlamış. 19. yüzyıl sonuna dek kullanılan bu sistem öyle güvenli görülüyormuş ki *kırılmaz şifre* diye anılıyormuş.
 
 ![Blaise de Vigenere (Vigenere Şifreleme)](/assets/img/posts/2018/08/Vigenere.jpg)
+_Blaise de Vigenère_
 
 ## Vigenere Şifreleme Algoritması
 
@@ -52,7 +44,7 @@ Vigenere şifrelemede anahtar kelime, şifrelenecek yazı bitene kadar kendini t
 
 Aşağıdaki tablo üzerinden bütün harfleri kontrol edebilirsiniz.
 
-![Vigenere şifreleme tablosu](/assets/img/posts/2018/08/Vigenere-square.png)
+![Vigenere şifreleme tablosu](/assets/img/posts/2018/08/Vigenere-square.png){: .bg-white .p-2 }
 
 ### Şifrelenen Harfin Alfabedeki Sıra Numarasını Öğrenmek
 

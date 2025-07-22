@@ -1,18 +1,12 @@
 ---
 title: 'Sass Nedir? Sass Nasıl Kullanılır?'
-date: '2019-08-27T20:17:36+03:00'
+date: 2019-08-27 20:17:36 +0300
 description: Sass, CSS formatına dönüştürülebilen bir biçim şablon dilidir. Bu yazımda
   Sass'ın ne olduğunu ve nasıl kullanıldığını detaylıca anlattım.
-layout: post
 permalink: /sass-nedir-sass-nasil-kullanilir/
 image: /assets/img/posts/2019/08/sass-logo-825x510.png
-categories:
-    - Programlama
-tags:
-    - CSS
-    - 'css preprocessor'
-    - SASS
-    - SCSS
+categories: [Programlama]
+tags: [css, css preprocessor, sass, scss]
 ---
 
 ## Sass Nedir?

@@ -11,7 +11,7 @@ tags: [monty hall, monty hall problemi, monty hall problemi programı, monty hal
 
 **Monty Hall problemi**, Amerikan TV yarışma programı [*Let's Make a Deal*](https://tr.wikipedia.org/wiki/Let%27s_Make_a_Deal?oldformat=true)'a dayanır. Bu problem, adını yarışmayı sunan Monty Hall'dan alır. Öncelikle Monty Hall problemini anlamak için yarışmanın formatını size anlatmak istiyorum.
 
-![Monty Hall Problemi](/assets/img/posts/2020/03/1280px-Monty_open_door.svg_.png){: .bg-white .p-2 }
+![Monty Hall Problemi](/assets/img/posts/2020/03/1280px-Monty_open_door.svg_.png){: .bg-white-transparent }
 
 Yarışmada 3 tane kapı bulunuyor. Kapıların arkasında ne olduğunu göremiyorsunuz. Bu kapıların bir tanesinin arkasında araba bulunuyor. Diğer 2 kapının arkasında ise keçi var. Sunucu sizden bir kapıyı seçmenizi istiyor. Siz kapıyı seçtikten sonra, sunucu sizin seçmediğiniz 2 kapıdan arkasında keçi bulunan bir tanesini açıyor. Ardından size seçtiğiniz kapıyı değiştirmek ister misiniz diye soruyor. Önünüzde açılmamış iki tane kapı var. Arkasında araba olan kapıyı seçerseniz araba sizindir. Siz olsanız en başta seçtiğiniz kapıyı değiştirir misiniz?
 

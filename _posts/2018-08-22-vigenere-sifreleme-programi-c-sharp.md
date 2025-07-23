@@ -44,7 +44,7 @@ Vigenere şifrelemede anahtar kelime, şifrelenecek yazı bitene kadar kendini t
 
 Aşağıdaki tablo üzerinden bütün harfleri kontrol edebilirsiniz.
 
-![Vigenere şifreleme tablosu](/assets/img/posts/2018/08/Vigenere-square.png){: .bg-white .p-2 }
+![Vigenere şifreleme tablosu](/assets/img/posts/2018/08/Vigenere-square.png){: .bg-white-transparent }
 
 ### Şifrelenen Harfin Alfabedeki Sıra Numarasını Öğrenmek
 

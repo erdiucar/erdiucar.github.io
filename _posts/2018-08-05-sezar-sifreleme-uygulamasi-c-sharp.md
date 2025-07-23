@@ -75,7 +75,7 @@ Anahtar sayı = 2
 
 Şifrelenecek harfin alfabedeki sırasını öğrenmenin kodla ilgili kısmına geleyim. Başta belirttiğim üzere programda ASCII tablosunu temel alarak kodlama yaptım. Hemen ASCII tablosunu inceleyelim.
 
-![ASCII Tablosu](/assets/img/posts/2018/08/ASCII-tablosu.png){: .bg-white .p-2 }
+![ASCII Tablosu](/assets/img/posts/2018/08/ASCII-tablosu.png){: .bg-white-transparent }
 
 Her karakterin, ondalık sayı sisteminde (Decimal) bir karşılığı var. Mesela büyük "A" harfinin Decimal karşılığı 65. Küçük harf "a" harfinin Decimal karşılığı 97.
 

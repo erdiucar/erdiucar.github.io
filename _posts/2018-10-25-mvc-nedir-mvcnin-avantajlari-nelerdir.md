@@ -24,7 +24,7 @@ View, kullanıcıların gördüğü kısımdır. Yani uygulamamızda kullanıcı
 
 Controller, uygulamamızda köprü görevi gören kısımdır. Kullanıcıdan (View) gelen isteklere göre veritabanından (Model) verileri alıp, gelen verileri tekrar kullanıcıya (View) gösterebiliriz.
 
-![MVC Nedir](/assets/img/posts/2018/10/mvc-nedir.png){: .bg-white .p-2 }
+![MVC Nedir](/assets/img/posts/2018/10/mvc-nedir.png){: .bg-white-transparent }
 
 Bu arada MVC, [ASP.NET](https://www.asp.net/)'e ait bir yazılım kalıbı değil. Microsoft sadece bu sistemi geliştiricilerin kullanımına sunmuş.
 

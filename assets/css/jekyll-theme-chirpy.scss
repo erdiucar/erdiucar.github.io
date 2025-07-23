@@ -1,0 +1,19 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+/* Şeffaf arka planları beyaz yapan sınıf */
+.bg-white-transparent {
+  background-color: white;
+  padding: 8px;
+}
+
+

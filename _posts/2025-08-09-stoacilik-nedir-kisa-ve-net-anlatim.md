@@ -5,7 +5,7 @@ categories: [Felsefe, Stoacılık]
 tags: [stoacılık, stoacı felsefe, erdem, kontrol ikililiği, memento mori]
 description: "Stoacılık nedir? Antik Yunan’dan Roma’ya uzanan Stoacı felsefenin temel ilkelerini, modern hayata etkilerini ve pratik örneklerini kısa ve net şekilde keşfedin."
 image:
-  path: /assets/img/posts/2025/stoacilik-nedir-kapak.png
+  path: /assets/img/posts/2025/08/stoacilik-nedir-kapak.png
   alt: "Stoacılık Nedir? Kısa ve Net Anlatım - Antik Stoacı Filozof İllüstrasyonu"
 ---
 

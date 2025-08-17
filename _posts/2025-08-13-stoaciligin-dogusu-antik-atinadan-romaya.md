@@ -5,7 +5,7 @@ categories: [Felsefe, Stoacılık]
 tags: [stoacılık, antik yunan, roma, zeno, seneca, epiktetos, marcus aurelius]
 description: "Stoacılığın kökenleri, Antik Atina’da Zeno ile başlayan yolculuğu ve Roma İmparatorluğu’nda zirveye ulaşan dönemi keşfedin."
 image:
-  path: /assets/img/posts/2025/stoaciligin-dogusu-kapak.png
+  path: /assets/img/posts/2025/08/stoaciligin-dogusu-kapak.png
   alt: "Stoacılığın Doğuşu - Antik Yunan ve Roma dönemi Stoacılık"
 ---
 
